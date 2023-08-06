@@ -15,4 +15,4 @@ Steps
    this command "php artisan key:generate" then refresh your browser to see the register/login page
 7. To create the necessary tables run this command "php artisan migrate"
 8. To create one user and one blog using seeder execute this command "php artisan db:seed"
-9. To login use the following name=maina and password=1234
+9. To login use the following name=harrison and password=1234
